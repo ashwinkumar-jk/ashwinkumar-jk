@@ -34,7 +34,7 @@ I'm a Full-Stack Developer with professional experience building enterprise supp
 <table align="center">
   <tr>
     <td> Profile Views </td>
-    <td><img src="https://profile-counter.glitch.me/Ash-Codename47/count.svg" alt="vistor count" height="20" /></td>
+    <td><img src="https://profile-counter.glitch.me/ashwinkumar-jk/count.svg" alt="vistor count" height="20" /></td>
   </tr>
 </table>
 
@@ -43,8 +43,8 @@ I'm a Full-Stack Developer with professional experience building enterprise supp
 
 <br />
 
-![Ash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ash-Codename47&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ash-Codename47&layout=donut&theme=github_dark)
+![Ash's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashwinkumar-jk&show_icons=true&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashwinkumar-jk&layout=donut&theme=github_dark)
 
 <br />
 
@@ -60,7 +60,7 @@ I'm a Full-Stack Developer with professional experience building enterprise supp
   <a href="https://www.linkedin.com/in/ashwinkumarjk" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
   </a>
-  <a href="https://instagram.com/_.ashhwinn._" target="_blank">
+  <a href="https://instagram.com/ashhwinn.27" target="_blank">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=071A2C" alt="Instagram"/>
   </a>
   <a href="https://twitter.com/jkak27" target="_blank">
