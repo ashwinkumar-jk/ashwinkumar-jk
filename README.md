@@ -23,9 +23,9 @@ I'm a Full-Stack Developer with professional experience building enterprise supp
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 <br />
 
-## 🐍 Contribution Snake
+<!--## 🐍 Contribution Snake
 
-![snake gif](https://github.com/ashwinkumar-jk/ashwinkumar-jk/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/ashwinkumar-jk/ashwinkumar-jk/blob/output/github-contribution-grid-snake.svg)-->
 
 ![Ash's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashwinkumar-jk&show_icons=true&theme=github_dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashwinkumar-jk&layout=donut&theme=github_dark)
