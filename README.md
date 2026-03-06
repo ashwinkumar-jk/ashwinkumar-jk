@@ -1,19 +1,6 @@
-<h1>Hello World! I'm <a href="https://github.com/Ash-Codename47">Ashwin</a> <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
+<h1>Hello World! I'm <a href="https://github.com/Ash-Codename47">Ashwin</a> <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1> 
 
-<!--
-**Ash-Codename47/Ash-Codename47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=ashwinkumar-jk&repo=ashwinkumar-jk&countColor=%237B1E7B"/>
 
 ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="60"> 
 I'm a Full-Stack Developer with professional experience building enterprise supply chain and agricultural data platforms at Mindsprint.
@@ -31,17 +18,14 @@ I'm a Full-Stack Developer with professional experience building enterprise supp
 
 ![1642320423853](https://user-images.githubusercontent.com/48784001/203785020-2b4826c1-7ddb-4de8-b65b-ebf6e04c5290.jpeg)
 
-<table align="center">
-  <tr>
-    <td> Profile Views </td>
-    <td><img src="https://profile-counter.glitch.me/ashwinkumar-jk/count.svg" alt="vistor count" height="20" /></td>
-  </tr>
-</table>
-
 <details>
 <summary>⚡️ More about my coding life</summary>
-
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 <br />
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/ashwinkumar-jk/ashwinkumar-jk/blob/output/github-contribution-grid-snake.svg)
 
 ![Ash's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashwinkumar-jk&show_icons=true&theme=github_dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashwinkumar-jk&layout=donut&theme=github_dark)
