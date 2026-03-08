@@ -3,6 +3,7 @@
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=ashwinkumar-jk&repo=ashwinkumar-jk&countColor=%237B1E7B"/>
 
 ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="60"> 
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 I'm a Full-Stack Developer with professional experience building enterprise supply chain and agricultural data platforms at Mindsprint.
 
 💻 My primary tech stack includes Java (Spring Boot), Node.js, Vue.js, and PostgreSQL, where I work on designing scalable backend services, REST APIs, and data processing systems.
@@ -20,16 +21,19 @@ I'm a Full-Stack Developer with professional experience building enterprise supp
 
 <details>
 <summary>⚡️ More about my coding life</summary>
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 <br />
 
 ## 🐍 Contribution Snake
 
 ![snake gif](https://github.com/ashwinkumar-jk/ashwinkumar-jk/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ashwinkumar-jk&show_icons=true&theme=github_dark&hide_border=true" height="165"/>
+<img src="https://streak-stats.demolab.com?user=ashwinkumar-jk&theme=github-dark&hide_border=true" height="165"/>
+</p>
 
-![Ash's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashwinkumar-jk&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashwinkumar-jk&layout=donut&theme=github_dark)
-
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwinkumar-jk&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
 <br />
 
 [![My Skills](https://skillicons.dev/icons?i=git,cpp,java,html,css,bootstrap,js,jquery,react,nodejs,express)](https://skillicons.dev)
