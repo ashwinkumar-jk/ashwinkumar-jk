@@ -1,57 +1,97 @@
-<h1>Hello World! I'm <a href="https://github.com/Ash-Codename47">Ashwin</a> <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1> 
+<h1 align="center">
+  Hello World! I'm <a href="https://github.com/Ash-Codename47">Ashwin</a>
+  <img height="30" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430">
+</h1>
 
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=ashwinkumar-jk&repo=ashwinkumar-jk&countColor=%237B1E7B"/>
+<p align="center">
+<img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=ashwinkumar-jk&repo=ashwinkumar-jk&countColor=%237B1E7B"/>
+</p>
 
-### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="60"> 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
-I'm a Full-Stack Developer with professional experience building enterprise supply chain and agricultural data platforms at Mindsprint.
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+Node.js;Vue.js+%7C+PostgreSQL;Building+Scalable+Backend+Systems"/>
+</p>
 
-💻 My primary tech stack includes Java (Spring Boot), Node.js, Vue.js, and PostgreSQL, where I work on designing scalable backend services, REST APIs, and data processing systems.
+---
 
-🚀 I have contributed to systems such as commodity traceability platforms, geospatial data services, and farmer information management systems, helping improve data workflows and supply chain visibility.
+## 👨‍💻 A little about me
 
-⚙️ I also enjoy working with CI/CD pipelines, containerized deployments, and cloud infrastructure, using tools like Jenkins, Docker, and Azure.
+<img align="right" height="160" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif"/>
 
-📚 I'm continuously learning and exploring backend architecture, distributed systems, and scalable microservices.
+I'm a **Full-Stack Developer** with professional experience building **enterprise supply chain and agricultural data platforms at Mindsprint.**
 
-📫 Feel free to connect with me to discuss software engineering, backend systems, and full-stack development.
-<br/><br />
+💻 Full-stack focused with **Java (Spring Boot), Node.js, Vue.js, PostgreSQL**
 
-![1642320423853](https://user-images.githubusercontent.com/48784001/203785020-2b4826c1-7ddb-4de8-b65b-ebf6e04c5290.jpeg)
+🚀 Worked on systems like:
+
+* Commodity **traceability platforms**
+* **Geospatial data services**
+* **Farmer information management systems**
+
+⚙️ Experienced with **CI/CD pipelines, Docker, Jenkins, and Azure**
+
+📚 Currently exploring **backend architecture, distributed systems, and scalable microservices**
+
+📫 Always open to discussions about **backend systems and full-stack development**
+
+<br/>
+
+---
+
+## ⚡ More about my coding life
 
 <details>
-<summary>⚡️ More about my coding life</summary>
-<br />
+<summary>Click to expand</summary>
 
-## 🐍 Contribution Snake
+<br/>
 
-![snake gif](https://github.com/ashwinkumar-jk/ashwinkumar-jk/blob/output/github-contribution-grid-snake.svg)
+### 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://github.com/ashwinkumar-jk/ashwinkumar-jk/blob/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=ashwinkumar-jk&show_icons=true&theme=github_dark&hide_border=true" height="165"/>
+
 <img src="https://streak-stats.demolab.com?user=ashwinkumar-jk&theme=github-dark&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwinkumar-jk&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
-<br />
 
-[![My Skills](https://skillicons.dev/icons?i=git,cpp,java,html,css,bootstrap,js,jquery,react,nodejs,express)](https://skillicons.dev)
+---
+
+### 🛠 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,html,css,bootstrap,js,vue,react,next,postgres,docker,jenkins,git,azure"/>
+</p>
 
 </details>
 
-<hr />
+---
 
-### Connect with me:
+## 🌐 Connect with me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ashwinkumarjk" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
-  </a>
-  <a href="https://instagram.com/ashhwinn.27" target="_blank">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=071A2C" alt="Instagram"/>
-  </a>
-  <a href="https://twitter.com/jkak27" target="_blank">
-    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=071A2C" alt="Twitter"/>
-  </a>
+
+<a href="https://www.linkedin.com/in/ashwinkumarjk">
+<img src="https://img.shields.io/badge/LinkedIn-071A2C?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://twitter.com/jkak27">
+<img src="https://img.shields.io/badge/Twitter-071A2C?style=for-the-badge&logo=twitter&logoColor=white">
+</a>
+
+</p>
+
+---
+
+<p align="center">
+⭐️ From <a href="https://github.com/ashwinkumar-jk">Ashwin</a>
 </p>
