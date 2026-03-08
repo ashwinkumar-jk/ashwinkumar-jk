@@ -98,8 +98,3 @@
 
 ---
 
-<p align="center">
-
-⭐️ From <a href="https://github.com/ashwinkumar-jk">Ashwin</a>
-
-</p>
