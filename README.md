@@ -47,7 +47,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ashwinkumar-jk&show_icons=true&theme=github_dark&hide_border=true" height="165"/>
+<!-- <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ashwinkumar-jk&show_icons=true&theme=github_dark&hide_border=true" height="165"/> -->
 
 <img src="https://streak-stats.demolab.com?user=ashwinkumar-jk&theme=github-dark&hide_border=true" height="165"/>
 </p>
