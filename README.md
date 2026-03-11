@@ -86,10 +86,6 @@
 <img src="https://img.shields.io/badge/LinkedIn-071A2C?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="https://instagram.com/ashhwinn.27">
-<img src="https://img.shields.io/badge/Instagram-071A2C?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-
 <a href="https://twitter.com/jkak27">
 <img src="https://img.shields.io/badge/Twitter-071A2C?style=for-the-badge&logo=twitter&logoColor=white">
 </a>
